@@ -1,0 +1,43 @@
+services:
+
+  nplas-app:
+    image: 24091997/fplas-frontend-2024:v2
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - /usr/bin/docker:/usr/bin/docker
+      - /home/lynnhtetaung/Desktop/results:/app/addon/output  # Mount path for results folder host:container
+
+    networks:
+      - app-network
+    ports:
+      - "4000:4000"
+
+  flutter-app:
+    image: 24091997/fplas-backend-2024:v1
+    volumes:
+      - shared-data:/app/build/web
+      - /var/run/docker.sock:/var/run/docker.sock
+      - /usr/bin/docker:/usr/bin/docker
+
+    networks:
+      - app-network
+    ports:
+      - 5000:5000
+    stdin_open: true  # Enable interactive shell
+    tty: true         # Allocate a pseudo-TTY
+
+  nginx-app:
+    image: 24091997/fplas-nginx-2024:v1
+    volumes:
+      - shared-data:/usr/share/nginx/html  # Use shared volume to serve built Flutter web app
+    networks:
+      - app-network
+    ports:
+      - "8080:80"  # Map port 8080 on the host to port 80 in the container
+
+volumes:
+  shared-data:
+
+networks:
+  app-network:
+    driver: bridge
