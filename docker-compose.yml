@@ -1,7 +1,7 @@
 services:
 
   nplas-app:
-    image: 24091997/fplas-frontend-2024:v2
+    image: 24091997/fplas-frontend-2024:v1
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
       - /usr/bin/docker:/usr/bin/docker
