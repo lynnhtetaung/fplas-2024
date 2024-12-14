@@ -3,11 +3,8 @@
 1. ⚙️ [About the System](#1-about-the-system) 
 2. 🔨 [Prerequisites](#2-prerequisites) 
 3. 🖥 [Follow the procedure according to OS](#3-procedure-according-to-OS) 
-	- [Windows](<a href="https://github.com/lynnhtetaung/fplas-2024/wiki/3.-Windows" style="font-size: 0.1px; color: #FF0000;">WIndows</a>)
-	- [Linux (Ubuntu)](#linux-Ubuntu)
-	<!-- - [MacOS](#macos)
-		- [Intel Processor](#macos-intel-processor)
-		- [M1/2/3 Chip Processor](#macos-m-chip-processor) -->
+	- <a href="https://github.com/lynnhtetaung/fplas-2024/wiki/3.-Windows" style="font-size: 0.1px; color: #FF0000;">Windows</a>
+	- <a href="https://github.com/lynnhtetaung/fplas-2024/wiki/3.-Linux(Ubuntu)" style="font-size: 0.1px; color: #FF0000;">Linux (Ubuntu)</a>
 4. 📜 [About Exercises](#4-about-exercises) 
 	<!-- - [Exercise-1](#exercise-1)
 	- [Exercise-2](#exercise-2)
