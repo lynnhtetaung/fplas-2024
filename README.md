@@ -38,7 +38,7 @@ Flutter Programming Learning Assistant System includes frontend, backend and web
 
 |                                                        Tool                                                        | Install | URL                                                                                                     |
 | :---------------------------------------------------------------------------------------------------------------------------: | :-------------: | ------------------------------------------------------------------------------------------------------- |
-| <img height="50" src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/git.png"> |      GitHub       | <ul><li>https://git-scm.com/downloads/</li></ul> |
+<!-- | <img height="50" src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/git.png"> |      GitHub       | <ul><li>https://git-scm.com/downloads/</li></ul> | -->
 | <img height="50" src="https://github.com/soethandara/plas_flutter_docker/assets/148550611/74b958e4-8211-481c-8454-8aa7a719ce8b"> |      Docker       | <ul><li>https://www.docker.com/products/docker-desktop</li></ul>|
 
 - <strong>If necessary,</strong> please download & reference the following user manual 
