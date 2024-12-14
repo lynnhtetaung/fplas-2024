@@ -116,25 +116,25 @@ To see the source code's output, click **Run** button.
 > [!CAUTION]
 > It will display error image if there is some **Error** in the source code. 
 
-<img width="800" alt="setPort" src="https://github.com/lynnhtetaung/flutter-web/blob/docker-deploy/static/error_images/error_image.png">
+<img width="800" alt="setPort" src="https://github.com/user-attachments/assets/457040f3-244e-469b-9de5-c59c07e36495">
 
 <a href="#flutter-programmaing-assistant-system-with-docker" style="font-size: 0.1px; color: #FF0000;">if back to top ↑ </a>
 <hr style="border-top: 2px solid #333;">
 
 ### Exercise-1 
-![e1](https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/exercise1.png)
+![exercise1](https://github.com/user-attachments/assets/a190baea-b80c-4e3e-82b1-cebdb10fee81)
 
 ### Exercise-2
-![e1](https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/exercise2.png)
+![exercise2](https://github.com/user-attachments/assets/d8e77b66-1ad5-44ef-b8f6-de8e9afd497d)
 
 ### Exercise-3
-![e1](https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/exercise3.png)
+![exercise3](https://github.com/user-attachments/assets/9d772473-1a65-4033-8d88-e97553285e81)
 
 ### Exercise-4
-![e1](https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/exercise4.png)
+![exercise4](https://github.com/user-attachments/assets/8c4b1ad1-0db1-4dcf-8c4d-e294c01a6878)
 
 ### Exercise-5
-![e1](https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/exercise5.png)
+![exercise5](https://github.com/user-attachments/assets/6439277e-a298-45a3-ae6b-0629b08ad177)
 
 ## 5. Answer File Submission
 > After finished exercises, student need to submit **answer files** to **Moodle**.
