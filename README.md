@@ -140,7 +140,7 @@ To see the source code's output, click **Run** button.
   <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page7.png" alt="flutter" width="800" />
 </p>
 
-> If the source code can run successfully, it will show the result in pop-up dialog. Then, click **OK** and see the result.
+> Click **OK** to see the result.
 
 <p align="justify"> 
   <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page8.png" alt="flutter" width="800" />
