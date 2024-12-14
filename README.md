@@ -28,7 +28,7 @@ Flutter Programming Learning Assistant System includes frontend, backend and web
 </p>
 
 <p align="center">
-  <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page1.png" alt="flutter" width="800" />
+  <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page1.png" alt="flutter" width="400" />
 </p>
 <a href="#flutter-programmaing-assistant-system-with-docker" style="font-size: 0.1px; color: #FF0000;">if back to top ↑ </a>
 
@@ -67,7 +67,9 @@ cd Desktop
 ```
 
 > (3) If have no **Git** in your PC, **Download** the project from here [fplas-2024.zip](https://github.com/user-attachments/files/18135141/fplas-2024.zip) , **Move** the project to Desktop and **Unzip** them.
+
 Or
+
 > If have **Git** in your PC, **Clone** the project from Github on the **command prompt(cmd)**. Then, the project directory named **fplas-2024** on the PC's Desktop. 
 ```
 git clone https://github.com/lynnhtetaung/fplas-2024.git
@@ -82,7 +84,7 @@ to
 C:\\Users\\User\\Desktop\\results:/app/addon/output (or) /C:/Users/.../Desktop/results:/app/addon/output 
 ```
 > [!CAUTION]
-> / or \\ is depends on your PC setup. Thus, try one of them to see the **results** directory on PC's Desktop.
+> / or \/\/ is depends on your PC setup. Thus, try one of them to see the **results** directory on PC's Desktop.
 <img width="400" alt="Screenshot 2024-12-14 at 16 35 54" src="https://github.com/user-attachments/assets/8f505b51-47ea-40e3-a3ad-7f957027d534" />
 
 > (5) **Run** the command on the **command prompt(cmd)** to start the Docker containers after modifying.
