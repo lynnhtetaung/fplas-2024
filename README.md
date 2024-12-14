@@ -84,7 +84,7 @@ to
 C:\\Users\\User\\Desktop\\results:/app/addon/output (or) /C:/Users/.../Desktop/results:/app/addon/output 
 ```
 > [!CAUTION]
-> / or \ \ is depends on your PC setup. Thus, try one of them to see the **results** directory on PC's Desktop.
+> / or \ \ is depends on your PC setup. Thus, try one of them until you see the **results** directory on PC's Desktop.
 <img width="400" alt="Screenshot 2024-12-14 at 16 35 54" src="https://github.com/user-attachments/assets/8f505b51-47ea-40e3-a3ad-7f957027d534" />
 
 > (5) **Run** the command on the **command prompt(cmd)** to start the Docker containers after modifying.
@@ -92,7 +92,6 @@ C:\\Users\\User\\Desktop\\results:/app/addon/output (or) /C:/Users/.../Desktop/r
 ```
 docker compose up
 ```
-
 
 > (6) **Open** Chrome browser and navigate to **http://localhost:4000/**
 
