@@ -66,8 +66,7 @@ docker pull 24091997/fplas-frontend-2024:v1
 cd Desktop
 ```
 
-> **Clone** the project from Github on the **command prompt(cmd)**. Then, you will see the project directory named **fplas-2024** on your PC's Desktop.
-
+> **Download** the project from here [fplas-2024.zip](https://github.com/user-attachments/files/18135141/fplas-2024.zip). Then, the project directory named **fplas-2024-main** appears on your PC's Desktop. If have **Git** in your PC, **Clone** the project from Github on the **command prompt(cmd)**. Then, the project directory named **fplas-2024** on your PC's Desktop. 
 ```
 git clone https://github.com/lynnhtetaung/fplas-2024.git
 ```
