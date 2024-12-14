@@ -5,14 +5,14 @@
 3. 🖥 [Follow the procedure according to OS](#3-procedure-according-to-OS) 
 	- <a href="https://github.com/lynnhtetaung/fplas-2024/wiki/3.-Windows" style="font-size: 0.1px; color: #FF0000;">Windows</a>
 	- <a href="https://github.com/lynnhtetaung/fplas-2024/wiki/3.-Linux-(Ubuntu)" style="font-size: 0.1px; color: #FF0000;">Linux (Ubuntu)</a>
-4. 📜 [About Exercises](#4-about-exercises) 
-        - [Exercise-1](#exercise-1)
+4. 📜 [About Exercises](#4-about-exercises)
+	- [Exercise-1](#exercise-1)
 	- [Exercise-2](#exercise-2)
 	- [Exercise-3](#exercise-3)
  	- [Exercise-4](#exercise-4)
   	- [Exercise-5](#exercise-5)
-5. 📑 [Answer File Submission](#5-answer-file-submission) 
-6. 📝 [System Usage Feedback ](#6-system-usage-feedback)
+6. 📑 [Answer File Submission](#5-answer-file-submission) 
+7. 📝 [System Usage Feedback ](#6-system-usage-feedback)
 
 <hr style="border-top: 2px solid #333;">
 
