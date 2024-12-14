@@ -71,19 +71,19 @@ cd Desktop
 git clone https://github.com/lynnhtetaung/fplas-2024.git
 ```
 Or
-> If have no **Git** in your PC, **Download** the project from here
-```
-[fplas-2024.zip](https://github.com/user-attachments/files/18135141/fplas-2024.zip) , **Move** the project to Desktop and Unzip them.
-``` 
+> If have no **Git** in your PC, **Download** the project from here [fplas-2024.zip](https://github.com/user-attachments/files/18135141/fplas-2024.zip), **Move** the project to Desktop and Unzip them.
 
-> (4) **Open** the **docker-compose.yml** file in the "fplas-2024" and **Modify** the following directory to match your PC's Desktop directory.
+> (4) **Open** the **docker-compose.yml** file in the "fplas-2024" project and **Modify** the following directory to match your PC's Desktop directory.
 ```
 /home/lynnhtetaung/Desktop/results:/app/addon/output
 
 to
 
-/C:/Users/.../Desktop/results:/app/addon/output (Put your PC Desktop directory in /C:/Users/.../Desktop/)
+C:\\Users\\User\\Desktop\\results:/app/addon/output (or) /C:/Users/.../Desktop/results:/app/addon/output 
+> [!CAUTION]
+> (/ or \\ is depends on your PC setup)
 ```
+<img width="898" alt="Screenshot 2024-12-14 at 16 35 54" src="https://github.com/user-attachments/assets/8f505b51-47ea-40e3-a3ad-7f957027d534" />
 
 > (5) **Run** the command on the **command prompt(cmd)** to start the Docker containers after modifying.
 
