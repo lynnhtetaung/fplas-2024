@@ -12,7 +12,7 @@
  	- [Exercise-4](#exercise-4)
   	- [Exercise-5](#exercise-5) -->
 5. 📑 [Answer File](#5-answer-file) 
-6. 📝 [Answer File Submission & System Usage Feedback ](#6-answer-file-submission-links) 
+6. 📝 [Answer File Submission & System Usage Feedback ](#6-answer-file-submission-&-system-usage-feedback)
 
 <hr style="border-top: 2px solid #333;">
 
@@ -177,7 +177,7 @@ Check your latest source code **dart** file for each exercise under Desktop/Flut
 <a href="#flutter-programmaing-assistant-system-with-docker" style="font-size: 0.1px; color: #FF0000;">if back to top ↑ </a>
 <hr style="border-top: 2px solid #333;">
 
-## 6. Answer File Submission Links & System Usage Feedback
+## 6. Answer File Submission & System Usage Feedback
 > After finished the exercises, you need to submit answer files of 5 exercises from **studentID_Flutter_CMP_Basic_p1.dart** to  **studentID_Flutter_CMP_Basic_p5.dart** to the Moodle.
 > 
 > To submit 5 exercises files are the following format
