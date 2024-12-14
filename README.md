@@ -96,10 +96,7 @@ docker compose up
 
 > (6) **Open** Chrome browser and navigate to **http://localhost:4000/**
 
-<p align="center">
  <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page1.png" alt="flutter" width="400" />
-</p>
-
 
 <a href="#flutter-programmaing-assistant-system-with-docker" style="font-size: 0.1px; color: #FF0000;">if back to top ↑ </a>
 <hr style="border-top: 2px solid #333;">
@@ -141,9 +138,7 @@ docker compose up
 
 > **Open** Chrome browser and navigate to **http://localhost:4000/**
 
-<p align="center">
  <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page1.png" alt="flutter" width="400" />
-</p>
 
 <a href="#flutter-programmaing-assistant-system-with-docker" style="font-size: 0.1px; color: #FF0000;">if back to top ↑ </a>
 <hr style="border-top: 2px solid #333;">
