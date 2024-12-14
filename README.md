@@ -168,7 +168,7 @@ To see the source code's output, click **Run** button.
 <hr style="border-top: 2px solid #333;">
 
 ## 5. Answer File Submission
-> After finished exercises, Student need to submit **answer files** to **Moodle**.
+> After finished exercises, student need to submit **answer files** to **Moodle**.
 >
 > The files are located under **Desktop/results/Flutter_CMP_Basic** directory with the following format
 - **studentID_Flutter_CMP_Basic_p1.dart** (e.g, 51D27703_Flutter_CMP_Basic_p1.dart).
