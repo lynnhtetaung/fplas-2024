@@ -51,8 +51,7 @@ Flutter Programming Learning Assistant System includes frontend, backend and web
 - Depending on the Operating System, the way is different. Therefore, please follow the procedure according to the conrrespondence OS.
 ##
 
-> Click <a href="https://github.com/lynnhtetaung/fplas-2024/wiki/Windows" style="font-size: 0.1px; color: #FF0000;">Windows</a>
-<hr style="border-top: 2px solid #333;">
+### <a href="https://github.com/lynnhtetaung/fplas-2024/wiki/Windows" style="font-size: 0.1px; color: #FF0000;">Here</a> <hr style="border-top: 2px solid #333;">
 
 ### Linux (Ubuntu)
 > **Get** 3 docker images on the **terminal**.
