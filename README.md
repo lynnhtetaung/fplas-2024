@@ -98,17 +98,17 @@ docker compose up
 -->
 
 ## 4. About Exercises
-> First, fill **studentID** and click "Go to Exercise" button. 
+> (1) First, fill **studentID** and click "Go to Exercise" button. 
 <p align="justify"> 
   <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page2.png" alt="flutter" width="800" />
 </p>
 
-> Choose **Exercise for Flutter Programming**.
+> (2) Choose **Exercise for Flutter Programming**.
 <p align="justify"> 
   <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page3.png" alt="flutter" width="800" />
 </p>
 
-> Choose **Basic Grammar**. Then, you will see **5** exercises. 
+> (3) Choose **Basic Grammar**. Then, you will see **5** exercises. 
 
 <p align="justify"> 
   <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page4.png" alt="flutter" width="800" />
