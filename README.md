@@ -170,7 +170,7 @@ Check your latest source code **dart** file for each exercise under Desktop/Flut
 ## 5. Answer File Submission
 > After finished exercises, Student need to submit **answer files** to **Moodle**.
 >
-> The files are located under **Desktop/results/Flutter_CMP_Basic** directory with the format
+> The files are located under **Desktop/results/Flutter_CMP_Basic** directory with the following format
 - **studentID_Flutter_CMP_Basic_p1.dart** (e.g, 51D27703_Flutter_CMP_Basic_p1.dart).
 
 <!-- - ```C:/.../Desktop/results/Flutter_CMP_Basic/studentID_Flutter_CMP_Basic_p1.dart```  at **Windows**
