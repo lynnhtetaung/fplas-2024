@@ -11,8 +11,8 @@
 	- [Exercise-3](#exercise-3)
  	- [Exercise-4](#exercise-4)
   	- [Exercise-5](#exercise-5) -->
-5. 📑 [Answer File](#5-answer-file) 
-6. 📝 [Answer File Submission & System Usage Feedback ](#6-answer-file-submission-&-system-usage-feedback)
+5. 📑 [Answer File Submission](#5-answer-file-submission) 
+6. 📝 [System Usage Feedback ](#6-system-usage-feedback)
 
 <hr style="border-top: 2px solid #333;">
 
@@ -97,7 +97,7 @@ docker compose up
 
 -->
 <a href="#flutter-programmaing-assistant-system-with-docker" style="font-size: 0.1px; color: #FF0000;">if back to top ↑ </a>
-
+<hr style="border-top: 2px solid #333;">
 
 ## 4. About Exercises
 > Fill **studentID** and click "Go to Exercise" button. 
@@ -167,27 +167,19 @@ Check your latest source code **dart** file for each exercise under Desktop/Flut
 <a href="#flutter-programmaing-assistant-system-with-docker" style="font-size: 0.1px; color: #FF0000;">if back to top ↑ </a>
 <hr style="border-top: 2px solid #333;">
 
-## 5. Answer File
-> Student need to submit 5 exercises source code under the **Desktop/results/Flutter_CMP_Basic** folder (e.g. **Flutter_CMP_Basic/51D227703_Flutter_CMP_Basic_p1.dart** in below.)
+## 5. Answer File Submission
+> Student need to submit **answer files** of 5 exercises to **Moodle**. The files are under the **Desktop/results/Flutter_CMP_Basic** directory with the format  **studentID_Flutter_CMP_Basic_p1.dart** (e.g, 51D27703_Flutter_CMP_Basic_p1.dart).
 
-- ```C://Desktop/results/Flutter_CMP_Basic/studentID_Flutter_CMP_Basic_p1.dart```  at **Windows**
-- ```cd Deskop/results/Flutter_CMP_Basic```  at **Linux**
+<!-- - ```C:/.../Desktop/results/Flutter_CMP_Basic/studentID_Flutter_CMP_Basic_p1.dart```  at **Windows**
+- ```cd Deskop/results/Flutter_CMP_Basic```  at **Linux** -->
 <!-- - ```cd Desktop/results/Flutter_CMP_Basic```  at **MacOS** -->
 
 <a href="#flutter-programmaing-assistant-system-with-docker" style="font-size: 0.1px; color: #FF0000;">if back to top ↑ </a>
 <hr style="border-top: 2px solid #333;">
 
-## 6. Answer File Submission and System Usage Feedback
-> After finished the exercises, you need to submit answer files of 5 exercises to **Moodle**.
-> 
-> To submit 5 exercises files are the following format
-- **studentID_Flutter_CMP_Basic_p1.dart** (e.g, 51D27703_Flutter_CMP_Basic_p1.dart)
-- **studentID_Flutter_CMP_Basic_p2.dart** (e.g, 51D27703_Flutter_CMP_Basic_p2.dart)
-- **studentID_Flutter_CMP_Basic_p3.dart** (e.g, 51D27703_Flutter_CMP_Basic_p3.dart)
-- **studentID_Flutter_CMP_Basic_p4.dart** (e.g, 51D27703_Flutter_CMP_Basic_p4.dart)
-- **studentID_Flutter_CMP_Basic_p5.dart** (e.g, 51D27703_Flutter_CMP_Basic_p5.dart)
+## 6. System Usage Feedback
 
-> Please access the following **Google form** for answer file submission and taking survey usage of this system.
+> Please access the following **Google form** for taking survey usage of this system.
   
 - 📝 https://forms.gle/BrxTEY87hmqSJQiD6
 
