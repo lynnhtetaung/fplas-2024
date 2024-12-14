@@ -53,25 +53,30 @@ Flutter Programming Learning Assistant System includes frontend, backend and web
 
 ### Windows
 
-> **Get** 3 docker images on the **command prompt(cmd)**.
+> (1) **Get** 3 docker images on the **command prompt(cmd)**.
 ```
 docker pull 24091997/fplas-backend-2024:v1
 docker pull 24091997/fplas-nginx-2024:v1
 docker pull 24091997/fplas-frontend-2024:v1
 ```
 
-> **Change** the Desktop directory on the **command prompt(cmd)**.
+> (2) **Change** the Desktop directory on the **command prompt(cmd)**.
 
 ```
 cd Desktop
 ```
 
-> **Download** the project from here [fplas-2024.zip](https://github.com/user-attachments/files/18135141/fplas-2024.zip). Then, the project directory named **fplas-2024-main** appears on your PC's Desktop. If have **Git** in your PC, **Clone** the project from Github on the **command prompt(cmd)**. Then, the project directory named **fplas-2024** on your PC's Desktop. 
+> (3) If have **Git** in your PC, **Clone** the project from Github on the **command prompt(cmd)**. Then, the project directory named **fplas-2024** on your PC's Desktop. 
 ```
 git clone https://github.com/lynnhtetaung/fplas-2024.git
 ```
+Or
+> If have no **Git** in your PC, **Download** the project from here
+```
+[fplas-2024.zip](https://github.com/user-attachments/files/18135141/fplas-2024.zip) , **Move** the project to Desktop and Unzip them.
+``` 
 
-> **Open** the **docker-compose.yml** file in the "fplas-2024" and **Modify** the following directory to match your PC's Desktop directory.
+> (4) **Open** the **docker-compose.yml** file in the "fplas-2024" and **Modify** the following directory to match your PC's Desktop directory.
 ```
 /home/lynnhtetaung/Desktop/results:/app/addon/output
 
@@ -80,14 +85,14 @@ to
 /C:/Users/.../Desktop/results:/app/addon/output (Put your PC Desktop directory in /C:/Users/.../Desktop/)
 ```
 
-> **Run** the command on the **command prompt(cmd)** to start the Docker containers after modifying.
+> (5) **Run** the command on the **command prompt(cmd)** to start the Docker containers after modifying.
 
 ```
 docker compose up
 ```
 
 
-> **Open** Chrome browser and navigate to **http://localhost:4000/**
+> (6) **Open** Chrome browser and navigate to **http://localhost:4000/**
 
 <p align="center">
  <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page1.png" alt="flutter" width="800" />
