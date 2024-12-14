@@ -84,7 +84,7 @@ to
 C:\\Users\\User\\Desktop\\results:/app/addon/output (or) /C:/Users/.../Desktop/results:/app/addon/output 
 ```
 > [!CAUTION]
-> / or \/\/ is depends on your PC setup. Thus, try one of them to see the **results** directory on PC's Desktop.
+> / or \ \ is depends on your PC setup. Thus, try one of them to see the **results** directory on PC's Desktop.
 <img width="400" alt="Screenshot 2024-12-14 at 16 35 54" src="https://github.com/user-attachments/assets/8f505b51-47ea-40e3-a3ad-7f957027d534" />
 
 > (5) **Run** the command on the **command prompt(cmd)** to start the Docker containers after modifying.
@@ -97,7 +97,7 @@ docker compose up
 > (6) **Open** Chrome browser and navigate to **http://localhost:4000/**
 
 <p align="center">
- <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page1.png" alt="flutter" width="600" />
+ <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page1.png" alt="flutter" width="400" />
 </p>
 
 
@@ -142,7 +142,7 @@ docker compose up
 > **Open** Chrome browser and navigate to **http://localhost:4000/**
 
 <p align="center">
- <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page1.png" alt="flutter" width="800" />
+ <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page1.png" alt="flutter" width="400" />
 </p>
 
 <a href="#flutter-programmaing-assistant-system-with-docker" style="font-size: 0.1px; color: #FF0000;">if back to top ↑ </a>
@@ -198,28 +198,28 @@ docker compose up
 ## 4. About Exercises
 > First, fill **studentID** and click "Go to Exercise" button. 
 <p align="justify"> 
-  <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page2.png" alt="flutter" width="900" />
+  <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page2.png" alt="flutter" width="800" />
 </p>
 
 > Choose **Exercise for Flutter Programming**.
 <p align="justify"> 
-  <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page3.png" alt="flutter" width="900" />
+  <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page3.png" alt="flutter" width="800" />
 </p>
 
 > Choose **Basic Grammar**. Then, you will see **5** exercises. 
 
 <p align="justify"> 
-  <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page4.png" alt="flutter" width="900" />
+  <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page4.png" alt="flutter" width="800" />
 </p>
 
 > **Before** finished the exercises, the **remark** will show **Not Started** status. 
 <p align="justify"> 
-  <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page5.png" alt="flutter" width="900" />
+  <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page5.png" alt="flutter" width="800" />
 </p>
 
 > **After** finished the exercises, the **remark** will change to the **Completed** status.
 <p align="justify"> 
-  <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page5-1.png" alt="flutter" width="900" />
+  <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page5-1.png" alt="flutter" width="800" />
 </p>
 
 > Select "exercise1". The left side displays **Output in sample source code**, **Expected result** and "Modification guidance". The right side displays **Source Code editor**. 
@@ -228,31 +228,31 @@ docker compose up
 To see the source code output, click **Run** button.
 
 <p align="justify"> 
-  <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page6.png" alt="flutter" width="900" />
+  <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page6.png" alt="flutter" width="800" />
 </p>
 
 > **Loading icon** will show during the source code running. It will take a few second to show the result.
 <p align="justify"> 
-  <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page7.png" alt="flutter" width="900" />
+  <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page7.png" alt="flutter" width="800" />
 </p>
 
 > If the source code can run successfully, it will show the result in pop-up dialog. Then, click **OK** and see the result.
 
 <p align="justify"> 
-  <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page8.png" alt="flutter" width="900" />
+  <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page8.png" alt="flutter" width="800" />
 </p>
 
 > If you see 'No Difference Found', your source code is correct and score will get 100%.
 Check your latest source code **dart** file for each exercise under Desktop/Flutter_CMP_Basic.
 
 <p align="justify"> 
-  <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page9.png" alt="flutter" width="900" />
+  <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page9.png" alt="flutter" width="800" />
 </p>
 
 > If you see 'Difference Found', your source code is incorrect and modify the source code again.
 
 <p align="justify"> 
-  <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page10.png" alt="flutter" width="900" />
+  <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page10.png" alt="flutter" width="800" />
 </p>
 
 > [!CAUTION]
