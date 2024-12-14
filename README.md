@@ -146,14 +146,14 @@ To see the source code's output, click **Run** button.
   <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page8.png" alt="flutter" width="800" />
 </p>
 
-- If you see 'No Difference Found', your source code is correct and score will get 100%.
-Check your latest source code **dart** file for each exercise under Desktop/Flutter_CMP_Basic.
+- If you see **No Difference Found**, your **source code** is matched with the **Expected result**.
+<!-- Check your latest source code **dart** file for each exercise under Desktop/Flutter_CMP_Basic. -->
 
 <p align="justify"> 
   <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page9.png" alt="flutter" width="800" />
 </p>
 
-- If you see 'Difference Found', your source code is incorrect and modify the source code again.
+- If you see **Difference Found**, your source code is still need to modify.
 
 <p align="justify"> 
   <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page10.png" alt="flutter" width="800" />
