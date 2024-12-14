@@ -6,11 +6,11 @@
 	- <a href="https://github.com/lynnhtetaung/fplas-2024/wiki/3.-Windows" style="font-size: 0.1px; color: #FF0000;">Windows</a>
 	- <a href="https://github.com/lynnhtetaung/fplas-2024/wiki/3.-Linux-(Ubuntu)" style="font-size: 0.1px; color: #FF0000;">Linux (Ubuntu)</a>
 4. 📜 [About Exercises](#4-about-exercises) 
-	<!-- - [Exercise-1](#exercise-1)
+        - [Exercise-1](#exercise-1)
 	- [Exercise-2](#exercise-2)
 	- [Exercise-3](#exercise-3)
  	- [Exercise-4](#exercise-4)
-  	- [Exercise-5](#exercise-5) -->
+  	- [Exercise-5](#exercise-5)
 5. 📑 [Answer File Submission](#5-answer-file-submission) 
 6. 📝 [System Usage Feedback ](#6-system-usage-feedback)
 
@@ -166,6 +166,23 @@ To see the source code's output, click **Run** button.
 
 <a href="#flutter-programmaing-assistant-system-with-docker" style="font-size: 0.1px; color: #FF0000;">if back to top ↑ </a>
 <hr style="border-top: 2px solid #333;">
+
+### Exercise-1 
+<a href="![e1](https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/exercise1.png)" style="font-size: 0.1px; color: #FF0000;">if back to top ↑ </a>
+
+
+
+### Exercise-2
+![e1](https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/exercise2.png)
+
+### Exercise-3
+![e1](https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/exercise3.png)
+
+### Exercise-4
+![e1](https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/exercise4.png)
+
+### Exercise-5
+![e1](https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/exercise5.png)
 
 ## 5. Answer File Submission
 > After finished exercises, student need to submit **answer files** to **Moodle**.
