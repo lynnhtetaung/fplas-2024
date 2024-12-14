@@ -50,51 +50,9 @@ Flutter Programming Learning Assistant System includes frontend, backend and web
 ## 3. Procedure according to OS
 - Depending on the Operating System, the way is different. Therefore, please follow the procedure according to the conrrespondence OS.
 
-### <a href="https://github.com/lynnhtetaung/fplas-2024/wiki/Windows" style="font-size: 0.1px; color: #FF0000;">Windows</a> <hr style="border-top: 2px solid #333;">
+	### <a href="https://github.com/lynnhtetaung/fplas-2024/wiki/Windows" style="font-size: 0.1px; color: #FF0000;">Windows</a> <hr style="border-top: 2px solid #333;">
 
-### <a href="https://github.com/lynnhtetaung/fplas-2024/wiki/Windows" style="font-size: 0.1px; color: #FF0000;">Linux (Ubuntu)</a> <hr style="border-top: 2px solid #333;">
-
-### Linux (Ubuntu)
-> **Get** 3 docker images on the **terminal**.
-```
-docker pull 24091997/fplas-backend-2024:v1
-docker pull 24091997/fplas-nginx-2024:v1
-docker pull 24091997/fplas-frontend-2024:v1
-```
-
-> **Change** the Desktop directory on the **terminal**.
-
-```
-cd Desktop
-```
-
-> **Clone** the project from Github on the **terminal**. Then, you will see the project directory named **fplas-2024** on your PC's Desktop.
-
-```
-git clone https://github.com/lynnhtetaung/fplas-2024.git
-```
-
-> **Open** the **docker-compose.yml** file in the "fplas-2024" and **Modify** the following directory to match your PC's Desktop directory.
-```
-/home/lynnhtetaung/Desktop/results:/app/addon/output
-
-to
-
-/home/.../Desktop/results:/app/addon/output
-```
-
-> **Run** the command on the **terminal** to start the Docker containers after modifying.
-
-```
-docker compose up
-```
-
-> **Open** Chrome browser and navigate to **http://localhost:4000/**
-
- <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page1.png" alt="flutter" width="400" />
-
-<a href="#flutter-programmaing-assistant-system-with-docker" style="font-size: 0.1px; color: #FF0000;">if back to top ↑ </a>
-<hr style="border-top: 2px solid #333;">
+	### <a href="https://github.com/lynnhtetaung/fplas-2024/wiki/Windows" style="font-size: 0.1px; color: #FF0000;">Linux (Ubuntu)</a> <hr style="border-top: 2px solid #333;">
 
 <!-- ### MacOS (Intel Processor, M Chip Processor)
 > Apple's transition from Intel processors to its custom-designed chips (M1/2/3), starting with the M1 and subsequent iterations. Before their transition, Apple Mac computers used Intel processors. It is provided for both Intel and M chip processors.
