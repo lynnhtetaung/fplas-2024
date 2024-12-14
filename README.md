@@ -50,52 +50,6 @@ Flutter Programming Learning Assistant System includes frontend, backend and web
 	### <a href="https://github.com/lynnhtetaung/fplas-2024/wiki/3.-Windows" style="font-size: 0.1px; color: #FF0000;">Windows</a> <hr style="border-top: 2px solid #333;">
 	### <a href="https://github.com/lynnhtetaung/fplas-2024/wiki/3.-Linux-(Ubuntu)" style="font-size: 0.1px; color: #FF0000;">Linux (Ubuntu)</a> <hr style="border-top: 2px solid #333;">
 
-<!-- ### MacOS (Intel Processor, M Chip Processor)
-> Apple's transition from Intel processors to its custom-designed chips (M1/2/3), starting with the M1 and subsequent iterations. Before their transition, Apple Mac computers used Intel processors. It is provided for both Intel and M chip processors.
-##
-> **Get** 3 docker images on the **terminal**.
-```
-docker pull 24091997/fplas-backend-2024-ios:v1
-docker pull 24091997/fplas-nginx-2024-ios:v1
-docker pull 24091997/fplas-frontend-2024-ios:v1
-```
-
-> **Change** the Desktop directory on the **terminal**.
-
-```
-cd Desktop
-```
-
-> **Clone** the project from Github on the **terminal**.
-```
-git clone https://github.com/lynnhtetaung/fplas-2024.git
-```
-
-> **Modify** the following directory in the **docker-compose.yml** file (included in the Git clone project on your Desktop) to match your PC's Desktop directory.
-```
-/home/lynnhtetaung/Desktop/results:/app/addon/output
-
-to
-
-/Users/username/Desktop/results:/app/addon/output
-```
-
-> **Run** the command to start the Docker containers after modifying.
-
-```
-docker compose up
-```
-
-> **Open** Chrome browser and navigate to **http://localhost:4000/**
-
-<p align="center">
- <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page1.png" alt="flutter" width="800" />
-</p>
-
-<a href="#flutter-programmaing-assistant-system-with-docker" style="font-size: 0.1px; color: #FF0000;">if back to top ↑ </a>
-<hr style="border-top: 2px solid #333;">
-
--->
 <a href="#flutter-programmaing-assistant-system-with-docker" style="font-size: 0.1px; color: #FF0000;">if back to top ↑ </a>
 <hr style="border-top: 2px solid #333;">
 
@@ -153,7 +107,7 @@ To see the source code's output, click **Run** button.
   <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page9.png" alt="flutter" width="800" />
 </p>
 
-- If you see **Difference Found**, your source code is still need to modify.
+- If you see **Difference Found**, modify the **source code** again by referring to the **highlighted differences** in the output.
 
 <p align="justify"> 
   <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page10.png" alt="flutter" width="800" />
