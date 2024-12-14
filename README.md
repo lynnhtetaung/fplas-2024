@@ -45,7 +45,7 @@ Flutter Programming Learning Assistant System includes frontend, backend and web
 <hr style="border-top: 2px solid #333;">
 
 ## 3. Procedure according to OS
-- Depending on the Operating System, the way is different. Therefore, please follow the procedure according to the correspondence OS.
+- Depending on the **Operating System (OS)**, the way is different. Therefore, please follow the procedure according to the correspondence **OS**.
 
 	### <a href="https://github.com/lynnhtetaung/fplas-2024/wiki/3.-Windows" style="font-size: 0.1px; color: #FF0000;">Windows</a> <hr style="border-top: 2px solid #333;">
 	### <a href="https://github.com/lynnhtetaung/fplas-2024/wiki/3.-Linux-(Ubuntu)" style="font-size: 0.1px; color: #FF0000;">Linux (Ubuntu)</a> <hr style="border-top: 2px solid #333;">
@@ -100,7 +100,7 @@ docker compose up
 <hr style="border-top: 2px solid #333;">
 
 ## 4. About Exercises
-> Fill **studentID** and click "Go to Exercise" button. 
+- Fill **studentID** and click "Go to Exercise" button. 
 <p align="justify"> 
   <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page2.png" alt="flutter" width="800" />
 </p>
