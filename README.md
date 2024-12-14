@@ -126,7 +126,7 @@ docker compose up
   <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page5-1.png" alt="flutter" width="800" />
 </p>
 
-- Choose "exercise1". The left side displays **Output in sample source code**, **Expected result** and "Modification guidance". The right side displays **Source Code editor**. 
+- **Choose** "exercise1". The left side displays **Output in sample source code**, **Expected result** and **Modification guidance**. The right side displays **Source Code editor**. 
 
 - Read the **Modification guidance** and modify the source code as same as the **Expected result**.
 To see the source code's output, click **Run** button.
