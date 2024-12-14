@@ -3,7 +3,7 @@
 1. ⚙️ [About the System](#1-about-the-system) 
 2. 🔨 [Prerequisites](#2-prerequisites) 
 3. 🖥 [Follow the procedure according to OS](#3-procedure-according-to-OS) 
-	- [Windows](#windows)
+	- [Windows](#https://github.com/lynnhtetaung/fplas-2024/wiki/3.-Windows)
 	- [Linux (Ubuntu)](#linux-Ubuntu)
 	<!-- - [MacOS](#macos)
 		- [Intel Processor](#macos-intel-processor)
