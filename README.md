@@ -162,7 +162,7 @@ Check your latest source code **dart** file for each exercise under Desktop/Flut
 > [!CAUTION]
 > It will display error image if there is some **Error** in the source code. 
 
-<img width="600" alt="setPort" src="https://github.com/lynnhtetaung/flutter-web/blob/docker-deploy/static/error_images/error_image.png">
+<img width="800" alt="setPort" src="https://github.com/lynnhtetaung/flutter-web/blob/docker-deploy/static/error_images/error_image.png">
 
 <a href="#flutter-programmaing-assistant-system-with-docker" style="font-size: 0.1px; color: #FF0000;">if back to top ↑ </a>
 <hr style="border-top: 2px solid #333;">
