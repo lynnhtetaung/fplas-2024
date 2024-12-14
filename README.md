@@ -66,7 +66,7 @@ docker pull 24091997/fplas-frontend-2024:v1
 cd Desktop
 ```
 
-> (3) If have no **Git** in your PC, **Download** the project from here [fplas-2024.zip](https://github.com/user-attachments/files/18135141/fplas-2024.zip) , **Move** the project to Desktop and Unzip them.
+> (3) If have no **Git** in your PC, **Download** the project from here [fplas-2024.zip](https://github.com/user-attachments/files/18135141/fplas-2024.zip) , **Move** the project to Desktop and **Unzip** them.
 Or
 > If have **Git** in your PC, **Clone** the project from Github on the **command prompt(cmd)**. Then, the project directory named **fplas-2024** on the PC's Desktop. 
 ```
