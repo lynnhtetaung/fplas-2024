@@ -168,9 +168,7 @@ To see the source code's output, click **Run** button.
 <hr style="border-top: 2px solid #333;">
 
 ### Exercise-1 
-<a href="![e1](https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/exercise1.png)" style="font-size: 0.1px; color: #FF0000;">if back to top ↑ </a>
-
-
+![e1](https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/exercise1.png)
 
 ### Exercise-2
 ![e1](https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/exercise2.png)
