@@ -18,7 +18,8 @@
 
 ## 1. About the System 
 <p align="justify"> 
-Flutter Programming Learning Assistant System includes frontend, backend and webserver.
+Flutter Programming Learning Assistant System includes frontend, backend and webserver. [Flutter説明.pdf](https://github.com/user-attachments/files/18164814/Flutter.pdf)
+
 <!-- You can see the details of the system user web pages step by step in the link below.
 <a href="https://github.com/lynnhtetaung/fplas-2024/wiki/2.-FPLAS-System--Detail" style="font-size: 0.1px; color: #FF0000;">Details </a> -->
 
